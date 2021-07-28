@@ -1,7 +1,7 @@
 {
   "name": "datetime-format-ydx-1991",
   "version": "1.0.0",
-  "description": "time is easy",
+  "description": "格式化时间的插件 发布的npm上面",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
