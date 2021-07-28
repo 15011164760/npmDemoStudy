@@ -1,11 +1,11 @@
-# datetime-format-yang-time
+# datetime-format-ydx
 格式化时间，获取2019-08-07 15:06:32或2019-08-07或15:06:32
 
 # install
-npm install -g datetime-format-wsy
+npm install -g datetime-format-ydx
 
 #github
-https://github.com/shiyuan598/FrontEnd/tree/master/npm/datetime-format
+https://github.com/15011164760/npmDemoStudy.git
 
 #usage
 let formatter = require('./index')
